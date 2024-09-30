@@ -1,8 +1,6 @@
 - 💻 Core Stack: **C/C++, C#, Node.JS, Python**. Mainly focused on Open-Source & LLMs security.
 - 🔥 Interested in Cybersecurity & ML
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mmudryi&show_icons=true&hide_title=true" alt="mmudryi" /></p>
-
 <!--
 **mmudryi/mmudryi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
